@@ -1,4 +1,4 @@
----
+-https://github.com/MegaByteMark/markdown-ui-dsl/blob/5dcba14501c0117a89c83896dbf3d4f1a06f69fc/skills/markdown-ui-dsl/SKILL.md--
 name: markdown-ui-dsl
 description: Create low-fidelity, text-based wireframes using the Markdown-UI Domain Specific Language (DSL).
 license: MIT
