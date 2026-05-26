@@ -1,4 +1,4 @@
----
+skills/markdown-ui-dsl/SKILL.md---
 name: markdown-ui-dsl
 description: Create low-fidelity, text-based wireframes using the Markdown-UI Domain Specific Language (DSL).
 license: MIT
